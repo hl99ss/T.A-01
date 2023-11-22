@@ -4,7 +4,7 @@ on:
   push:
     branches:
     - main
-    - master
+    - master2
     paths:
     - .github/workflows/semgrep.yml
   schedule:
